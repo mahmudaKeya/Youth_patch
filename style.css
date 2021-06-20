@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;   
+}
+
+body{
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
+.navbar{
+    background: #B33F40;
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+
+    color: white;
+    font-size: 30px;
+    line-height: 80px;
+    padding: 0 0px;
+    font-weight: 1000px;
+    
+    
+}
+
+/*
+label.yo_name{
+    display: flex;
+    color: white;
+    font-size: 30px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight: 1000px;
+}
+
+label.yo_logo{
+    display: flex;
+    padding: 10px 150px; 
+    
+}*/
